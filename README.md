@@ -1,5 +1,4 @@
 # iReporter
-[![Maintainability](https://api.codeclimate.com/v1/badges/9906559a5bf65c55f32c/maintainability)](https://codeclimate.com/github/leksyib/ireporter-react/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9906559a5bf65c55f32c/test_coverage)](https://codeclimate.com/github/leksyib/ireporter-react/test_coverage)
 
 iReporter is a web app that enables citizens bring any form of corruption to the notice of appropriate authorities and the general public.
